@@ -1,1 +1,1 @@
-# mithuntechnologieshelmrepo
+# helmrepo
